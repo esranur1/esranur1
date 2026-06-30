@@ -19,7 +19,7 @@ Bu profil, yazılım dünyasındaki gelişim yolculuğumu ve üzerinde çalışt
 
 ### Geliştirdiğim Önemli Projeler
 
-#### YOLOv8 Tabanlı Otonom Atık Ayrıştırma Sistemi (Mezuniyet Projem)
+#### YOLOv8 Tabanlı Otonom Atık Ayrıştırma Sistemi
 Cam, metal, kağıt ve plastik atıkları gerçek zamanlı olarak ayırt eden yapay zeka tabanlı bir bilgisayarlı görü projesidir. Proje sürecinde veri seti hazırlama, etiketleme (labeling), Google Colab üzerinde model eğitimi ve başarı metriklerinin analizi aşamalarını yürüttüm.
 
 #### İlişkisel Veri Tabanı Entegreli Bilet Satış Otomasyonu
