@@ -12,10 +12,10 @@ Bu profil, yazılım dünyasındaki gelişim yolculuğumu ve üzerinde çalışt
 
 ### Kullandığım Teknolojiler ve Araçlar
 
-*   Web & Back-End: PHP, HTML5, CSS3, Bootstrap
-*   Veri Tabanı: MySQL, phpMyAdmin (Tablo İlişkilendirme, Foreign Key Yönetimi)
-*   Yapay Zeka & Scripting: Python, YOLOv8 Nesne Tespiti, Google Colab
-*   Sürüm Kontrolü: Git / GitHub
+* **Web & Arka Plan (Back-End):** PHP, C#, HTML5, CSS3, Bootstrap
+* **Veri Tabanı Yönetimi:** MySQL, SQL, phpMyAdmin (İlişkisel Veri Tabanı Tasarımı, Foreign Key Mimarileri)
+* **Yapay Zeka & Görüntü İşleme:** Python, YOLOv8 / YOLOv11 (Nesne Tespiti ve Model Eğitimi), Google Colab
+* **Sürüm Kontrolü & Araçlar:** Git, GitHub, VS Code, Visual Studio
 
 ### Geliştirdiğim Önemli Projeler
 
